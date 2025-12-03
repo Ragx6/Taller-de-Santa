@@ -1,2 +1,16 @@
 com\mycompany\tallersanta\UsuariosClass.class
+com\mycompany\tallersanta\GuardarAsignacionesJSON$1.class
+com\mycompany\tallersanta\Asignacion.class
 com\mycompany\tallersanta\TallerSanta.class
+com\mycompany\tallersanta\GuardarRegalosJSON.class
+com\mycompany\tallersanta\GuardarKidsJSON$1.class
+com\mycompany\tallersanta\GuardarAsignacionesJSON.class
+com\mycompany\tallersanta\GuardarRegalosJSON$1.class
+com\mycompany\tallersanta\GuardarKidsJSON.class
+com\mycompany\tallersanta\Kids.class
+com\mycompany\tallersanta\GestionarKids.class
+com\mycompany\tallersanta\GuardarUsuariosJSON$1.class
+com\mycompany\tallersanta\Regalos.class
+com\mycompany\tallersanta\AsignacionRegalos.class
+com\mycompany\tallersanta\GestionarRegalos.class
+com\mycompany\tallersanta\GuardarUsuariosJSON.class
